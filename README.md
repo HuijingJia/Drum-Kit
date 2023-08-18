@@ -1,2 +1,7 @@
 # Drum-Kit
-Play it with the button version
+functions and methods:
+setTimeout
+callback function
+keydown
+switch
+addEventLisener
